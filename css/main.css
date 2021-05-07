@@ -176,6 +176,10 @@ section.how-it-works .container .features-list li.right-list {
   margin-top: 0em;
 }
 
+.signup-section {
+  color: white;
+}
+
 h2 {
   font-size: 2.5em;
   color: white;
@@ -208,6 +212,7 @@ input[type="submit"] {
   font-weight: bold;
   font-size: 0.75em;
   border: none;
+  margin-top: 2em;
   margin-bottom: 5em;
   border-radius: 5em;
   display: inline-block;
